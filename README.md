@@ -8,7 +8,7 @@ Analyze historical housing market data to identify key economic drivers and fore
 - Resional data from Figure NZ
 ### **Tools**
 - Python
-- SQL(To store data)
+- SQL (to store data)
 - Power BI
 ### **Dashboard**
 <img width="592" alt="House Price Dashboard" src="https://github.com/user-attachments/assets/c3a4f1b9-2a12-47c6-b577-b06320e69610" />
