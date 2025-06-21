@@ -13,6 +13,7 @@ I chose the 'New Zealand Housing Market Trends and Forecast' theme because I was
 - SQL (to store data)
 - Power BI
 ### **Dashboard**
-<img width="592" alt="House Price Dashboard" src="https://github.com/user-attachments/assets/c3a4f1b9-2a12-47c6-b577-b06320e69610" />
+<img width="496" alt="NZ_House_Price_New" src="https://github.com/user-attachments/assets/c6320d98-7254-4d20-a56a-6f66e7462bba" />
+
 
 
