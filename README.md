@@ -15,7 +15,7 @@ I chose the 'New Zealand Housing Market Trends and Forecast' theme because I was
 ### **Dashboard**
 <img width="618" alt="House Price Analysis NZ" src="https://github.com/user-attachments/assets/1350d4de-7079-4a6d-96fa-c354af5d6ba2" />
 
-### **Key Insights**
+### **Key Insights from the Dashboard**
 - **Consistent Growth in HPI（House Price)**：The current Housing Price Index (HPI) shows a steady upward trend from 1990 to 2024, with an average annual growth rate of 19.54%. This suggests long-term market appreciation, despite short-term volatility driven by events such as COVID-19 and post-2021 inflation shocks.
 - **Forecast to 2030**:　The forecast model (based on Random Forest Model) projects the HPI will reach approximately  3.51 by 2030, continuing the growth trajectory. This may signal a gradual slowdown in housing market growth, potentially due to affordability constraints, higher interest rates, or plateauing demand.
 - **Investment vs Price**: There is a clear positive correlation between residential investment (as a share of GDP) and average HPI(house price).Regions with consistent public or private investment tend to experience stronger long-term growth in property values.
