@@ -13,7 +13,8 @@ I chose the 'New Zealand Housing Market Trends and Forecast' theme because I was
 - SQL (to store data)
 - Power BI
 ### **Dashboard**
-<img width="618" alt="House Price Analysis NZ" src="https://github.com/user-attachments/assets/1350d4de-7079-4a6d-96fa-c354af5d6ba2" />
+<img width="627" height="344" alt="NZ house price 1992 to 2030" src="https://github.com/user-attachments/assets/a95b2532-8fc9-4c45-bdfe-f945a1f172ff" />
+
 
 ### **Key Insights from the Dashboard**
 - **Consistent Growth in HPI（House Price)**：The current Housing Price Index (HPI) shows a steady upward trend from 1990 to 2024, with an average annual growth rate of 19.54%. This suggests long-term market appreciation, despite short-term volatility driven by events such as COVID-19 and post-2021 inflation shocks.
